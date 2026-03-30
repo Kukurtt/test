@@ -1,11 +1,11 @@
-# Screenshots from build sessions
-*.png
+# Claude Code
+.claude/
 
 # Logs
 logs/
 
+# Screenshots
+*.png
+
 # BMAD framework (not project-specific)
 _bmad/
-
-# Claude Code
-.claude/
